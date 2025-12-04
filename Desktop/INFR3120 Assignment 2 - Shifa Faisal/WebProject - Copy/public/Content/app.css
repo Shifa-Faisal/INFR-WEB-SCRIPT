@@ -1,0 +1,16 @@
+body {
+  padding: 50px;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 14px;
+  color: midnightblue;
+  background-color: lightSkyBlue;
+}
+
+h1 {
+    font-size: 24px;
+    color: navy;
+    padding: 10px;
+    margin: 0px;
+}
+
+
